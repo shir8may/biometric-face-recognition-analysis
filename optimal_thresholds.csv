@@ -1,0 +1,4 @@
+Tool,Optimal Threshold,FMR,FNMR
+Facenet,0.412,0.154,0.162
+VGG-Face,0.541,0.042,0.18
+OpenCV,12.653,0.128,0.14
